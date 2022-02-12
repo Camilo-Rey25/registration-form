@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.img-login{
+    background-image: url(/images/img-login.jpg);
+    width: 90%;
+    height: 90%;
+}
+
+.main-container{
+    background-color: black;
+    box-shadow: 0 0 5px white,
+                    0 0 20px white;
+                
+}
+
+
+.url-copyright{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.url-copyright:hover{
+    text-decoration:underline;
+}
